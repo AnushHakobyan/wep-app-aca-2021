@@ -6,3 +6,6 @@ Our first change after initial commit
 Change to have some update
 
 Change in test-branching branch aaaa
+
+Change in test-branch-from-branch bbbb
+
